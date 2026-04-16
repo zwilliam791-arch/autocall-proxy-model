@@ -1,7 +1,7 @@
 # Autocall Athena — Neural Network Proxy Pricing Model
 
 Pricing a structured product via Monte Carlo takes ~100ms per computation.
-This project trains a neural network to replicate the pricer — 
+This project trains a neural network to replicate the pricer, 
 same accuracy, 3,000x faster.
 
 ## Results
